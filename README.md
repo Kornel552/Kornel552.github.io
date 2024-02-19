@@ -1,2 +1,2 @@
-# Kornel552.github.io
-d
+Check my portfolio!
+https://kornel552.github.io/home.html
